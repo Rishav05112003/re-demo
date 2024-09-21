@@ -1,0 +1,1 @@
+print("i can die for the person sitting in front of me \n he is my spine my backbone \n he is the reason i can sleep snoringly tense free")
